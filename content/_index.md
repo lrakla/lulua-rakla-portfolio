@@ -103,9 +103,9 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: posts
+    id: blog
     content:
-      title: Recent Posts
+      title: Recent Blogs
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -113,7 +113,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - blog
         author: ""
         category: ""
         tag: ""
