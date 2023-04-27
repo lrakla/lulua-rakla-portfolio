@@ -1,6 +1,6 @@
 ---
 title: Lulua Rakla
-role: Professor of Artificial Intelligence
+role: Data Scientist | ML Engineer
 bio: My research interests include Computer Vision towards self-driving and
   multi-modal AI (Video + Text)
 interests:
@@ -22,35 +22,32 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lrakla
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/lulua-rakla/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UC San Diego
+    # url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS ECE (Machine Learning & Data Science)
+      institution: University of California, San Diego
+      year: 2023
+    - course: BE Electronics Engineering (Major ML & Image Processing)
+      institution: University of Pune
+      year: 2020
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Rakla
 highlight_name: true
-first_name: Alice
+first_name: Lulua
 email: ""
 ---
 
-Biography TO DO
+Hi, :wave: I'm Lulua Rakla
 {style="text-align: justify;"}
