@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: "Rose"
-  theme_night: "Rose"
+  #theme_night: "Rose"
   font: "Mr Robot"
   font_size: L
 
