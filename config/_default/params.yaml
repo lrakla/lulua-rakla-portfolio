@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: rose
-  theme_night: rose
-  font: mr robot
+  theme_day: "Rose"
+  theme_night: "Rose"
+  font: "Mr Robot"
   font_size: L
 
 # SEO
