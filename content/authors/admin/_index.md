@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/luluarakla
     label: Follow me on Twitter
     display:
       header: true
@@ -49,5 +49,5 @@ first_name: Lulua
 email: ""
 ---
 
-Hi, :wave: I'm Lulua Rakla
+Hi, :wave: I'm Lulua Rakla. (Stay tuned for more! )
 {style="text-align: justify;"}
