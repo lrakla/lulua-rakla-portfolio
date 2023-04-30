@@ -46,7 +46,7 @@ sections:
           company_logo: org-gc
           location: San Diego, CA
           date_start: '2022-03-01'
-          date_end: 'Present'
+          date_end: ''
           description: |2-
               Responsibilities include:
 
