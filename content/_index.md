@@ -153,7 +153,7 @@ sections:
         - name: ML
           tag: ML
         - name: Recommender Systems
-          tag: Rec
+          tag: Recommender Systems
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
